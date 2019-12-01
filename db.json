@@ -1,24 +1,12 @@
-<<<<<<< HEAD
 {
-  "posts": [
+  "clients": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Lundra",
+      "description": ""
     }
   ],
   "profile": {
     "name": "typicode"
   }
-=======
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
->>>>>>> 1ad09ca1c119cb5d99094591b7f822c02bc65c5a
 }
